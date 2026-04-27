@@ -7,7 +7,7 @@
 
 ### 💡 About Me
 
-- 🔭 I’m currently working as a **Data Verification Specialist**, focusing on data quality, validation, and reporting  
+- 🔭 I’v worked as a **Data Verification Specialist**, focusing on data quality, validation, and reporting  
 - 🌱 I’m currently learning **Machine Learning, Feature Engineering, and Advanced Python for Data Science**  
 - 👯 I’m looking to collaborate on **data analysis and machine learning projects**  
 - 🤔 I’m looking for help with **building production-level data science projects**  
